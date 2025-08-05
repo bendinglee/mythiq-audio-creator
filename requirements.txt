@@ -5,3 +5,4 @@ transformers==4.44.0
 scipy==1.13.1
 numpy==1.26.4
 soundfile==0.12.1
+torchaudio>=2.0.0
